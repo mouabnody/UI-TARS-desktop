@@ -1,0 +1,11 @@
+{
+	"servers": {
+		"com.glean/mcp": {
+			"type": "http",
+			"url": "https://{baseUrl}/mcp/{server-name}",
+			"gallery": "https://api.mcp.github.com",
+			"version": "1.2.1"
+		}
+	},
+	"inputs": []
+}
